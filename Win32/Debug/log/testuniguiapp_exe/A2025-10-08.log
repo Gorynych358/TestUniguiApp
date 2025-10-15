@@ -1,0 +1,115 @@
+TestUniGUIApp.exe: 00006AF0: 01:50:37 []:>--------------------------------------------------------------<
+TestUniGUIApp.exe: 00006AF0: 01:50:37 [TUniServerModule]:Server First Init.
+TestUniGUIApp.exe: 00006AF0: 01:50:37 [TUniServerModule]:Start Path = E:\Delphi\UNIGUI\TestUniguiApp\Win32\Debug\
+TestUniGUIApp.exe: 00006AF0: 01:50:37 [TUniGUISessionManager]:Cache erase job created, Folder count: [1]
+TestUniGUIApp.exe: 00006AF0: 01:50:37 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+TestUniGUIApp.exe: 00006AF0: 01:50:37 [InitWebServer]:EIdCouldNotBindSocket : Could not bind socket. : Addr: $00A2BE23
+TestUniGUIApp.exe: 00006AF0: 01:50:43 [TUniServerModule]:Shutting Down Server.
+TestUniGUIApp.exe: 00006AF0: 01:50:43 [TUniServerModule]:Stopping HTTP Server.
+TestUniGUIApp.exe: 00006AF0: 01:50:44 [TUniServerModule]:HTTP Server Stopped.
+TestUniGUIApp.exe: 00006AF0: 01:50:44 [TUniGUISessionManager]:Terminating Session manager.
+TestUniGUIApp.exe: 00006AF0: 01:50:44 [TUniGUISessionManager]:Stopping Cache Eraser...
+TestUniGUIApp.exe: 00006AF0: 01:50:44 [TUniGUISessionManager]:Cache Eraser Stopped.
+TestUniGUIApp.exe: 00006AF0: 01:50:44 [TUniGUISessionManager]:Destroying Worker Threads.
+TestUniGUIApp.exe: 00006AF0: 01:50:44 [TUniGUISessionManager]:Session manager terminated.
+TestUniGUIApp.exe: 00006AF0: 01:50:44 [TUniWebSocketStack]:Terminating...
+TestUniGUIApp.exe: 00006AF0: 01:50:44 [TUniGUIMessageQ]:Terminated.
+TestUniGUIApp.exe: 00006AF0: 01:50:44 [TUniWebSocketStack]:Terminated.
+TestUniGUIApp.exe: 00006AF0: 01:50:44 [TUniServerModule]:Server Shutdown Completed.
+TestUniGUIApp.exe: 00006AF0: 01:50:44 []:<-------------------------------------------------------------->
+TestUniGUIApp.exe: 00007794: 02:18:43 []:>--------------------------------------------------------------<
+TestUniGUIApp.exe: 00007794: 02:18:43 [TUniServerModule]:Server First Init.
+TestUniGUIApp.exe: 00007794: 02:18:43 [TUniServerModule]:Start Path = E:\Delphi\UNIGUI\TestUniguiApp\Win32\Debug\
+TestUniGUIApp.exe: 00007794: 02:18:43 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+TestUniGUIApp.exe: 00007794: 02:18:43 [TUniServerModule]:HTTP Server Started on Port: 8077
+TestUniGUIApp.exe: 0000748C: 02:18:50 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: yIIgdpMMYf111CFE08E ) : Addr: $00BA44E1
+TestUniGUIApp.exe: 00007794: 02:20:04 [TUniServerModule]:Shutting Down Server.
+TestUniGUIApp.exe: 00007794: 02:20:04 [TUniServerModule]:Stopping HTTP Server.
+TestUniGUIApp.exe: 00007794: 02:20:05 [TUniServerModule]:HTTP Server Stopped.
+TestUniGUIApp.exe: 00007794: 02:20:05 [TUniGUISessionManager]:Terminating Session manager.
+TestUniGUIApp.exe: 00007794: 02:20:05 [TUniGUISessionManager]:Stopping Cache Eraser...
+TestUniGUIApp.exe: 00007794: 02:20:05 [TUniGUISessionManager]:Cache Eraser Stopped.
+TestUniGUIApp.exe: 00007794: 02:20:05 [TUniGUISessionManager]:Destroying Worker Threads.
+TestUniGUIApp.exe: 00007794: 02:20:05 [TUniGUISessionManager]:Session manager terminated.
+TestUniGUIApp.exe: 00007794: 02:20:05 [TUniWebSocketStack]:Terminating...
+TestUniGUIApp.exe: 00007794: 02:20:05 [TUniGUIMessageQ]:Terminated.
+TestUniGUIApp.exe: 00007794: 02:20:05 [TUniWebSocketStack]:Terminated.
+TestUniGUIApp.exe: 00007794: 02:20:05 [TUniServerModule]:Server Shutdown Completed.
+TestUniGUIApp.exe: 00007794: 02:20:05 []:<-------------------------------------------------------------->
+TestUniGUIApp.exe: 00006D04: 02:20:32 []:>--------------------------------------------------------------<
+TestUniGUIApp.exe: 00006D04: 02:20:32 [TUniServerModule]:Server First Init.
+TestUniGUIApp.exe: 00006D04: 02:20:32 [TUniServerModule]:Start Path = E:\Delphi\UNIGUI\TestUniguiApp\Win32\Debug\
+TestUniGUIApp.exe: 00006D04: 02:20:32 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+TestUniGUIApp.exe: 00006D04: 02:20:32 [TUniServerModule]:HTTP Server Started on Port: 8077
+TestUniGUIApp.exe: 00006D04: 02:28:17 [TUniServerModule]:Shutting Down Server.
+TestUniGUIApp.exe: 00006D04: 02:28:17 [TUniServerModule]:Stopping HTTP Server.
+TestUniGUIApp.exe: 00006D04: 02:28:18 [TUniServerModule]:HTTP Server Stopped.
+TestUniGUIApp.exe: 00006D04: 02:28:18 [TUniGUISessionManager]:Terminating Session manager.
+TestUniGUIApp.exe: 00006D04: 02:28:18 [TUniGUISessionManager]:Stopping Cache Eraser...
+TestUniGUIApp.exe: 00006D04: 02:28:18 [TUniGUISessionManager]:Cache Eraser Stopped.
+TestUniGUIApp.exe: 00006D04: 02:28:18 [TUniGUISessionManager]:Destroying Worker Threads.
+TestUniGUIApp.exe: 00006D04: 02:28:18 [TUniGUISessionManager]:Session manager terminated.
+TestUniGUIApp.exe: 00006D04: 02:28:18 [TUniWebSocketStack]:Terminating...
+TestUniGUIApp.exe: 00006D04: 02:28:18 [TUniGUIMessageQ]:Terminated.
+TestUniGUIApp.exe: 00006D04: 02:28:18 [TUniWebSocketStack]:Terminated.
+TestUniGUIApp.exe: 00006D04: 02:28:18 [TUniServerModule]:Server Shutdown Completed.
+TestUniGUIApp.exe: 00006D04: 02:28:18 []:<-------------------------------------------------------------->
+TestUniGUIApp.exe: 000075EC: 02:28:29 []:>--------------------------------------------------------------<
+TestUniGUIApp.exe: 000075EC: 02:28:29 [TUniServerModule]:Server First Init.
+TestUniGUIApp.exe: 000075EC: 02:28:29 [TUniServerModule]:Start Path = E:\Delphi\UNIGUI\TestUniguiApp\Win32\Debug\
+TestUniGUIApp.exe: 000075EC: 02:28:29 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+TestUniGUIApp.exe: 000075EC: 02:28:29 [TUniServerModule]:HTTP Server Started on Port: 8077
+TestUniGUIApp.exe: 000075EC: 02:31:08 [TUniServerModule]:Shutting Down Server.
+TestUniGUIApp.exe: 000075EC: 02:31:08 [TUniServerModule]:Stopping HTTP Server.
+TestUniGUIApp.exe: 000075EC: 02:31:09 [TUniServerModule]:HTTP Server Stopped.
+TestUniGUIApp.exe: 000075EC: 02:31:09 [TUniGUISessionManager]:Terminating Session manager.
+TestUniGUIApp.exe: 000075EC: 02:31:09 [TUniGUISessionManager]:Stopping Cache Eraser...
+TestUniGUIApp.exe: 000075EC: 02:31:09 [TUniGUISessionManager]:Cache Eraser Stopped.
+TestUniGUIApp.exe: 000075EC: 02:31:09 [TUniGUISessionManager]:Destroying Worker Threads.
+TestUniGUIApp.exe: 000075EC: 02:31:09 [TUniGUISessionManager]:Session manager terminated.
+TestUniGUIApp.exe: 000075EC: 02:31:09 [TUniWebSocketStack]:Terminating...
+TestUniGUIApp.exe: 000075EC: 02:31:09 [TUniGUIMessageQ]:Terminated.
+TestUniGUIApp.exe: 000075EC: 02:31:09 [TUniWebSocketStack]:Terminated.
+TestUniGUIApp.exe: 000075EC: 02:31:09 [TUniServerModule]:Server Shutdown Completed.
+TestUniGUIApp.exe: 000075EC: 02:31:09 []:<-------------------------------------------------------------->
+TestUniGUIApp.exe: 000071B0: 02:31:15 []:>--------------------------------------------------------------<
+TestUniGUIApp.exe: 000071B0: 02:31:15 [TUniServerModule]:Server First Init.
+TestUniGUIApp.exe: 000071B0: 02:31:15 [TUniServerModule]:Start Path = E:\Delphi\UNIGUI\TestUniguiApp\Win32\Debug\
+TestUniGUIApp.exe: 000071B0: 02:31:15 [TUniGUISessionManager]:Cache erase job created, Folder count: [1]
+TestUniGUIApp.exe: 000071B0: 02:31:15 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+TestUniGUIApp.exe: 000071B0: 02:31:15 [TUniServerModule]:HTTP Server Started on Port: 8077
+TestUniGUIApp.exe: 00005954: 02:31:23 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: BAnIEtAn7x111CFFB8C ) : Addr: $010044E1
+TestUniGUIApp.exe: 00003E10: 02:31:23 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: BAnIEtAn7x111CFFB8C ) : Addr: $010044E1
+TestUniGUIApp.exe: 000071B0: 02:31:57 [TUniServerModule]:Shutting Down Server.
+TestUniGUIApp.exe: 000071B0: 02:31:57 [TUniServerModule]:Stopping HTTP Server.
+TestUniGUIApp.exe: 000071B0: 02:31:58 [TUniServerModule]:HTTP Server Stopped.
+TestUniGUIApp.exe: 000071B0: 02:31:58 [TUniGUISessionManager]:Terminating Session manager.
+TestUniGUIApp.exe: 000071B0: 02:31:58 [TUniGUISessionManager]:Stopping Cache Eraser...
+TestUniGUIApp.exe: 000071B0: 02:31:58 [TUniGUISessionManager]:Cache Eraser Stopped.
+TestUniGUIApp.exe: 000071B0: 02:31:58 [TUniGUISessionManager]:Destroying Worker Threads.
+TestUniGUIApp.exe: 000071B0: 02:31:58 [TUniGUISessionManager]:Session manager terminated.
+TestUniGUIApp.exe: 000071B0: 02:31:58 [TUniWebSocketStack]:Terminating...
+TestUniGUIApp.exe: 000071B0: 02:31:58 [TUniGUIMessageQ]:Terminated.
+TestUniGUIApp.exe: 000071B0: 02:31:58 [TUniWebSocketStack]:Terminated.
+TestUniGUIApp.exe: 000071B0: 02:31:58 [TUniServerModule]:Server Shutdown Completed.
+TestUniGUIApp.exe: 000071B0: 02:31:58 []:<-------------------------------------------------------------->
+TestUniGUIApp.exe: 00003D08: 02:32:30 []:>--------------------------------------------------------------<
+TestUniGUIApp.exe: 00003D08: 02:32:30 [TUniServerModule]:Server First Init.
+TestUniGUIApp.exe: 00003D08: 02:32:30 [TUniServerModule]:Start Path = E:\Delphi\UNIGUI\TestUniguiApp\Win32\Debug\
+TestUniGUIApp.exe: 00003D08: 02:32:30 [TUniGUISessionManager]:Cache erase job created, Folder count: [1]
+TestUniGUIApp.exe: 00003D08: 02:32:30 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+TestUniGUIApp.exe: 00003D08: 02:32:30 [TUniServerModule]:HTTP Server Started on Port: 8077
+TestUniGUIApp.exe: 00000E64: 02:32:34 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: fieWXw2mHu111CFFC51 ) : Addr: $005C44E1
+TestUniGUIApp.exe: 00003D08: 02:34:04 [TUniServerModule]:Shutting Down Server.
+TestUniGUIApp.exe: 00003D08: 02:34:04 [TUniServerModule]:Stopping HTTP Server.
+TestUniGUIApp.exe: 00003D08: 02:34:05 [TUniServerModule]:HTTP Server Stopped.
+TestUniGUIApp.exe: 00003D08: 02:34:05 [TUniGUISessionManager]:Terminating Session manager.
+TestUniGUIApp.exe: 00003D08: 02:34:05 [TUniGUISessionManager]:Stopping Cache Eraser...
+TestUniGUIApp.exe: 00003D08: 02:34:05 [TUniGUISessionManager]:Cache Eraser Stopped.
+TestUniGUIApp.exe: 00003D08: 02:34:05 [TUniGUISessionManager]:Destroying Worker Threads.
+TestUniGUIApp.exe: 00003D08: 02:34:05 [TUniGUISessionManager]:Session manager terminated.
+TestUniGUIApp.exe: 00003D08: 02:34:05 [TUniWebSocketStack]:Terminating...
+TestUniGUIApp.exe: 00003D08: 02:34:05 [TUniGUIMessageQ]:Terminated.
+TestUniGUIApp.exe: 00003D08: 02:34:05 [TUniWebSocketStack]:Terminated.
+TestUniGUIApp.exe: 00003D08: 02:34:05 [TUniServerModule]:Server Shutdown Completed.
+TestUniGUIApp.exe: 00003D08: 02:34:05 []:<-------------------------------------------------------------->

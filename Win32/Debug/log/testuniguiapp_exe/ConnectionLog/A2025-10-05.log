@@ -1,0 +1,3 @@
+TestUniGUIApp.exe: 00001018: 19:46:25 [127.0.0.1]:Failed Sequence Recovery: SeqId: 10, Event: bclose
+TestUniGUIApp.exe: 00001018: 19:46:25 [127.0.0.1]:Sequence sent from cache:  SeqId: 10
+TestUniGUIApp.exe: 00001018: 19:46:25 [127.0.0.1]:Processed: Id: 10, Evt: bclose, [zvHZc7ZPUL111CC8111]
