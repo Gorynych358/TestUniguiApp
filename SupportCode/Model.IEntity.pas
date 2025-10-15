@@ -8,6 +8,12 @@ type
   procedure SetID(const AID:String);
   procedure SetName(const AName:String);
   procedure SetCaption(const ACaption:String);
+  function GetCaption: String;
+  function GetID: String;
+  function GetName: String;
+  property ID:String read GetID write SetID;
+  property Name:String read GetName write SetName;
+  property Caption:String read GetCaption write SetCaption;
  end;
 implementation
 end.
